@@ -1,0 +1,24 @@
+<table class="table table-sm">
+    <tr>
+        <td>numero cuenta</td>
+        <td>saldo total</td>
+        <td>clave</td>
+        <td>tipo cuenta</td>
+        <td>banco</td>
+        <td>persona</td>
+    </tr>
+    <tr *ngFor="let cuenta of cuentaService.list">
+        <td>{{ cuenta.numeroCuenta }}</td>
+        <td>{{ cuenta.valorInicial }}</td>
+        <td>{{ cuenta.clave }}</td>
+        <td>{{ cuenta.tipoCuenta }}</td>
+        <td>{{ cuenta.banco }}</td>
+        <td>{{ cuenta.persona }}</td>
+        <!--<td>
+            <i class="far fa-edit fa-lg text-info" (click)="editar(tarjeta)" style="cursor: pointer;"></i>
+        </td>-->
+        <td>
+         <i class="far fa-trash-alt fa-lg text-danger" (click)="eliminarCuenta(cuenta.id)" style="cursor: pointer;"></i>
+        </td>
+    </tr>
+</table>
