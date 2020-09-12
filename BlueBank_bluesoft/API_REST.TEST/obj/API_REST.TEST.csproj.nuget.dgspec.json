@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj": {}
+    "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj": {
+    "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj",
+        "projectUniqueName": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj",
         "projectName": "API_REST.TEST",
-        "projectPath": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj",
+        "projectPath": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST.TEST\\API_REST.TEST.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST.TEST\\obj\\",
+        "outputPath": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST.TEST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\API_REST.csproj": {
-                "projectPath": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\API_REST.csproj"
+              "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\API_REST.csproj": {
+                "projectPath": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\API_REST.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\API_REST.csproj": {
+    "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\API_REST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\API_REST.csproj",
+        "projectUniqueName": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\API_REST.csproj",
         "projectName": "API_REST",
-        "projectPath": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\API_REST.csproj",
+        "projectPath": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\API_REST.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\source\\repos\\BlueBank_bluesoft\\BlueBank_bluesoft\\API_REST\\obj\\",
+        "outputPath": "C:\\Users\\ander\\Source\\Repos\\NET_CORE_EF_ANGULAR\\BlueBank_bluesoft\\API_REST\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
